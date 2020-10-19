@@ -1,12 +1,14 @@
-ToDo List
-This ToDo List is a small project I made during my web development journey, using EJS, Node, and Express.
+<div style="align: center">
+   <h2>ToDo List</h2>
+   <p>This ToDo List is a small project I made during my web development journey, using EJS, Node, and Express.</p>
+</div>
 
 ## Installation & Set Up
 
 <h3>Install Node.js</h3>
 
 
-1. For Mac users
+<h4>1. For Mac users</h4>
 
 <li>Download the Mac installer from the <a href="https://nodejs.org/en/">Nodes.js® web site.</a></li>
 <li>Choose the LTS version that’s shown on the left</li>
@@ -19,7 +21,7 @@ This ToDo List is a small project I made during my web development journey, usin
    ```
 
 
-2. For Windows users
+<h4>2. For Windows users</h4>
 
 <li>Download the Windows installer from the  <a href="https://nodejs.org/en/">Nodes.js® web site. </a></li>
 <li>Choose the LTS version that’s shown on the left</li>
