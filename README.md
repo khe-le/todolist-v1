@@ -8,11 +8,11 @@ This ToDo List is a small project I made during my web development journey, usin
 
 1. For Mac users
 
-<p>Download the Mac installer from the <a href="https://nodejs.org/en/">Nodes.js® web site.</a></p>
-<p>Choose the LTS version that’s shown on the left</p>
-<p>Run the installer (double-click on the .pkg file you downloaded in the previous step.)</p>
-<p>Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).</p>
-Confirm that node has been installed successfully. You should see the version of node you have just installed.</p>
+<li>Download the Mac installer from the <a href="https://nodejs.org/en/">Nodes.js® web site.</a></li>
+<li>Choose the LTS version that’s shown on the left</li>
+<li>Run the installer (double-click on the .pkg file you downloaded in the previous step.)</li>
+<li>Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings).</li>
+<li>Confirm that node has been installed successfully. You should see the version of node you have just installed.</li>
 
    ```sh
    node --version
