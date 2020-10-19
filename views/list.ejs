@@ -1,0 +1,27 @@
+
+<%- include('header'); -%>
+    <div id="heading" class="box">
+        <h1><%= listTitle %> </h1>
+    </div>
+    
+    <div class="box">
+        <% for(var i = 0; i < itemList.length; i++) {%>
+            <div class="item">
+                <input type="checkbox">
+                <p> <%= itemList[i] %></p>
+            </div>
+        <% } %>
+        <form class="item" action="/" method="post">
+            <input type="text" name="newTask" placeholder="Add another task"  autocomplete="off">
+            <button type="submit" name="list" value= <%= listTitle%> >+</button>
+        </form>
+    </div>
+    <% if( listTitle !== "Work List") { %>
+        <a href="/work"><button class="route">Go to Work List</button></a>
+    <% } else { %>
+        <a href="/"><button class="route">Go back to General List</button></a>
+    <% } %>
+
+    <a href="/about"><button class="about">About</button></a>
+
+<%- include('footer'); -%>
