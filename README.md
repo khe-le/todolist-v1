@@ -26,5 +26,3 @@ Generate a full static production build
    ```sh
    node app.js
    ```
-
-# todolist-v1
