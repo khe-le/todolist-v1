@@ -1,6 +1,6 @@
 <div style="align: center">
-   <h2>ToDo List</h2>
-   <p>This ToDo List is a small project I made during my web development journey, using EJS, Node, and Express.</p>
+   <h2>To Do List</h2>
+   <p>This to-do list is a small project I made during my web development journey, using EJS, Node, and Express.</p>
 </div>
 
 ## Installation & Set Up
