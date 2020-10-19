@@ -6,17 +6,13 @@ This ToDo List is a small project I made during my web development journey, usin
 Install Node.js
 
 
-1. For Mac users
+<h2>1. For Mac users</h2>
 
-<p>Download the Mac installer from the <a href="https://nodejs.org/en/"><Nodes.js® web site.</a></p>
+<p>Download the Mac installer from the <a href="https://nodejs.org/en/">Nodes.js® web site.</a></p>
  
 
 
-3. For Windows users
-
-   ```sh
-   yarn
-   ```
+<h2>2. For Windows users</h2>
 
 
 ## Running the app
